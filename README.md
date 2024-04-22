@@ -1,9 +1,13 @@
 
 In this project, I meticulously crafted a series of automated test cases to ensure seamless user experiences through every step of the purchasing journey 
 𝟏. 𝐋𝐨𝐠𝐢𝐧 : Automated the login process to the Swag Labs website.
+
 𝟐. 𝐀𝐝𝐝 𝐭𝐨 𝐂𝐚𝐫𝐭 : Implemented Selenium WebDriver to click on the "Add to   Cart" button, simulating item selection.
+
 𝟑. 𝐏𝐫𝐨𝐜𝐞𝐞𝐝 𝐭𝐨 𝐂𝐚𝐫𝐭 : Utilized automation to navigate to the cart page after adding items.
+
 𝟒. 𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 𝐏𝐫𝐨𝐜𝐞𝐬𝐬 : Automated the input of user details (name, address, zip code) and clicking on the "Continue" button.
+
 𝟓. 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐢𝐨𝐧 : Used if-else statements to make sure the order went through and showed a Thank you for order message with displaying a message of appreciation for the purchase.
 
 For locating and navigating the items or Functional Buttons I have used some of Selenium WebDriver Locators as Follows:
